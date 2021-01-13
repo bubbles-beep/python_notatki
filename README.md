@@ -1,1 +1,2 @@
-# python_training
+# notatki_python
+# przydatne do nauki od podstaw :)
