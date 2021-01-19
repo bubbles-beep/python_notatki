@@ -1,3 +1,12 @@
+#WARTOSCI TRUE LUB FALSE SA ZWRACANE, KIEDY POROWNUJEMY DWIE WARTOSCI
+x=2
+print(x==2) #TRUE
+print(x!=2) #FALSE, "!=" ROZNE OD
+print(x==3) #FALSE, "==" POROWNANIE ZE SOBA DWOCH ZMIENNYCH
+print(x<3) #TRUE
+
+print("\n")
+
 x=1
 while(x<=10):
     print(x)
